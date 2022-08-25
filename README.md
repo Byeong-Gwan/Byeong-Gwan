@@ -12,7 +12,7 @@
 
 
 ### Databases
-[![SQL](https://img.shields.io/badge/-SQL-000?logo=Oracle&logoColor=white)](https://www.Oracle.com/downloads/)
+[![Oracle](https://img.shields.io/badge/-SQL-000?logo=Oracle&logoColor=white)](https://www.Oracle.com/downloads/)
 
 ### Technologies
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap)](https://getbootstrap.com/)
