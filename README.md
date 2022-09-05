@@ -22,5 +22,5 @@
 [![Eclipse](https://img.shields.io/badge/-Eclipse-000?logo=Eclipse)](https://www.eclipse.org/)
 [![Apache Tomcat](https://img.shields.io/badge/-Tomcat-000?logo=Tomcat)](https://tomcat.apache.org/)
 
-
+<p> 세미 프로젝트 팀장 </
 
