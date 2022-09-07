@@ -23,4 +23,4 @@
 [![Apache Tomcat](https://img.shields.io/badge/-Tomcat-000?logo=Tomcat)](https://tomcat.apache.org/)
 
 ### 이력서
-<a link=[중앙HTA_2204기_(김병관).pdf](https://github.com/Byeong-Gwan/Byeong-Gwan/files/9504254/HTA_2204._.pdf)>김병관 중간 이력서 작성입니다.</a>
+[중앙HTA_2204기_(김병관).pdf](https://github.com/Byeong-Gwan/Byeong-Gwan/files/9504254/HTA_2204._.pdf)
