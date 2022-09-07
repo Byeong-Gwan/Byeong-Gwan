@@ -24,3 +24,6 @@
 
 ### 이력서
 [중앙HTA_2204기_(김병관).pdf](https://github.com/Byeong-Gwan/Byeong-Gwan/files/9504254/HTA_2204._.pdf)
+
+### Notion
+https://www.notion.so/Photo_album-22-06-06-5a3150d292b746ae811f135e174ddaea
