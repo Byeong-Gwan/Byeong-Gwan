@@ -22,7 +22,5 @@
 [![Eclipse](https://img.shields.io/badge/-Eclipse-000?logo=Eclipse)](https://www.eclipse.org/)
 [![Apache Tomcat](https://img.shields.io/badge/-Tomcat-000?logo=Tomcat)](https://tomcat.apache.org/)
 
-<p> 세미 프로젝트 팀장 </p>
-<div> 맡은 기능 </div>
-
-[중앙HTA_2204기_(김병관).pdf](https://github.com/Byeong-Gwan/Byeong-Gwan/files/9504254/HTA_2204._.pdf)
+### 이력서
+<a href="[중앙HTA_2204기_(김병관).pdf](https://github.com/Byeong-Gwan/Byeong-Gwan/files/9504254/HTA_2204._.pdf)">김병관 중간 이력서 작성입니다.</a>
