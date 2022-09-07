@@ -22,8 +22,8 @@
 [![Eclipse](https://img.shields.io/badge/-Eclipse-000?logo=Eclipse)](https://www.eclipse.org/)
 [![Apache Tomcat](https://img.shields.io/badge/-Tomcat-000?logo=Tomcat)](https://tomcat.apache.org/)
 
-### 이력서
-[중앙HTA_2204기_(김병관).pdf](https://github.com/Byeong-Gwan/Byeong-Gwan/files/9504254/HTA_2204._.pdf) <- 수정 예정
-
 ### Notion
 [![Notion](https://img.shields.io/badge/-Notion-000?logo=Notion)](https://www.notion.so/Photo_album-22-06-06-5a3150d292b746ae811f135e174ddaea)
+
+### 이력서
+[중앙HTA_2204기_(김병관).pdf](https://github.com/Byeong-Gwan/Byeong-Gwan/files/9504254/HTA_2204._.pdf) <- 수정 예정
