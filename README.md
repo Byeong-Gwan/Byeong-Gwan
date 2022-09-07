@@ -25,3 +25,4 @@
 <p> 세미 프로젝트 팀장 </p>
 <div> 맡은 기능 </div>
 
+[중앙HTA_2204기_(김병관).pdf](https://github.com/Byeong-Gwan/Byeong-Gwan/files/9504254/HTA_2204._.pdf)
