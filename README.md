@@ -10,6 +10,8 @@
 [![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)](https://en.wikipedia.org/wiki/CSS)
 [![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)](https://www.w3schools.com/html/)
 [![JSP](https://img.shields.io/badge/-JSP-000?logo=JSP)](#)
+[![jQuery](https://img.shields.io/badge/-jQuery-000?logo=jQuery)](https://www.jQuery.com/jQuery/)
+[![Vue](https://img.shields.io/badge/-Vue-000?logo=Vue)](https://vuejs.org/)
 
 
 ### Databases
