@@ -11,7 +11,7 @@
 [![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)](https://www.w3schools.com/html/)
 [![JSP](https://img.shields.io/badge/-JSP-000?logo=JSP)](#)
 [![jQuery](https://img.shields.io/badge/-jQuery-000?logo=jQuery)](https://www.jQuery.com/jQuery/)
-[![Vuejs](https://img.shields.io/badge/-Vue-000?logo=Vue)](https://vuejs.org/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-000?logo=Vue.js)](https://vuejs.org/)
 
 
 ### Databases
