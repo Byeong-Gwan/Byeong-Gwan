@@ -5,13 +5,11 @@
 
 ### Languages
 [![Java](https://img.shields.io/badge/-Java-000?logo=Java)](https://java.com/)
-[![Spring](https://img.shields.io/badge/-Spring-000?logo=Spring)](https://Spring.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)](https://www.javascript.com/)
 [![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)](https://en.wikipedia.org/wiki/CSS)
 [![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)](https://www.w3schools.com/html/)
 [![JSP](https://img.shields.io/badge/-JSP-000?logo=JSP)](#)
 [![jQuery](https://img.shields.io/badge/-jQuery-000?logo=jQuery)](https://www.jQuery.com/jQuery/)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-000?logo=Vue.js)](https://vuejs.org/)
 
 
 ### Databases
