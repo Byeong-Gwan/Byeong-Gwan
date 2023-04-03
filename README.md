@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20my_Blog&fontSize=90)
-<h2 align="center"><!--<img src="https://raw.githubusercontent.com/mrz1836/mrz1836/master/.github/IMAGES/wave.gif?v=1" width="30">-->안녕하세요!😊 김병관 입니다.😁</h2>
+<h2 align="center"><!--<img src="https://raw.githubusercontent.com/mrz1836/mrz1836/master/.github/IMAGES/wave.gif?v=1" width="30">-->Frontend_developer</h2>
 <p align="center">
 </p>
 
