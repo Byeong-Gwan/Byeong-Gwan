@@ -2,8 +2,6 @@
 <h2 align="center"><!--<img src="https://raw.githubusercontent.com/mrz1836/mrz1836/master/.github/IMAGES/wave.gif?v=1" width="30">-->안녕하세요!😊 김병관 입니다.😁</h2>
 <p align="center">
 </p>
-### Studying
-[![REACT](https://img.shields.io/badge/-REACT-000?logo=REACT)](https://REACT.com/)
 
 ### Languages
 [![Java](https://img.shields.io/badge/-Java-000?logo=Java)](https://java.com/)
@@ -30,6 +28,7 @@
 ### Notion
 [![Notion](https://img.shields.io/badge/-Notion-000?logo=Notion)](https://www.notion.so/Photo_album-22-06-06-5a3150d292b746ae811f135e174ddaea)
 
-
+### Studying
+[![REACT](https://img.shields.io/badge/-REACT-000?logo=REACT)](https://REACT.com/)
 
 ![Byeong-Gwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byeong-Gwan&show_icons=true&theme=transparent)
