@@ -3,7 +3,7 @@
 <p align="center">
 </p>
 ### Studying
-<img src="https://img.shields.io/badge/REACT-black?style=flat-square&logo=REACT&logoColor=white" />
+[![REACT](https://img.shields.io/badge/-REACT-000?logo=REACT)](https://REACT.com/)
 
 ### Languages
 [![Java](https://img.shields.io/badge/-Java-000?logo=Java)](https://java.com/)
