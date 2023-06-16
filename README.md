@@ -6,7 +6,7 @@
 ### Languages
 [![Java](https://img.shields.io/badge/-Java-000?logo=Java)](https://java.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript)]([https://www.typescript.com](https://www.typescriptlang.org/)/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript)](https://www.typescriptlang.org/)
 [![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)](https://en.wikipedia.org/wiki/CSS)
 [![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)](https://www.w3schools.com/html/)
 [![JSP](https://img.shields.io/badge/-JSP-000?logo=JSP)](#)
@@ -24,6 +24,7 @@
 [![Eclipse](https://img.shields.io/badge/-Eclipse-000?logo=Eclipse)](https://www.eclipse.org/)
 [![Apache Tomcat](https://img.shields.io/badge/-Tomcat-000?logo=Tomcat)](https://tomcat.apache.org/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?logo=Vue.js)](https://v3-docs.vuejs-korea.org/)
+[![Svelte.js](https://img.shields.io/badge/-Svelte.js-000?logo=Svelte.js)](https://svelte.dev/)
 [![DBeaver](https://img.shields.io/badge/-DBeaver-000?logo=DBeaver)](https://dbeaver.io/download/)
 
 ### Notion
