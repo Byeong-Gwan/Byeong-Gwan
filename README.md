@@ -18,3 +18,6 @@ https://byeong-gwan.github.io/
 [![Notion](https://img.shields.io/badge/-Notion-000?logo=Notion)](https://www.notion.so/Photo_album-22-06-06-5a3150d292b746ae811f135e174ddaea)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byeong-Gwan_Github_username)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byeong-Gwan)](https://github.com/anuraghazra/github-readme-stats)
+
