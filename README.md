@@ -17,3 +17,4 @@ https://byeong-gwan.github.io/
 ### Notion
 [![Notion](https://img.shields.io/badge/-Notion-000?logo=Notion)](https://www.notion.so/Photo_album-22-06-06-5a3150d292b746ae811f135e174ddaea)
 
+[![Byeong-Gwan GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
