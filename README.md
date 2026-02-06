@@ -7,7 +7,7 @@
 
 ---
 
-## 🔍 What I Do
+## What I Do
 현재 **T-World 운영** 업무를 수행하며, 사용자의 목소리(VOC)를 기술적으로 해석하고 해결합니다.
 
 * **Fast Response**: 3일 이내 원인 분석 및 해결책 제시 (신속한 피드백 루프 구축)
@@ -16,7 +16,7 @@
 
 
 
-## 💻 Technical Stack
+## Technical Stack
 | Category | Tech |
 | :--- | :--- |
 | **Language** | JavaScript (ES6+), TypeScript |
@@ -25,11 +25,19 @@
 
 ---
 
-## 📫 Contact
+## Contact
 * **Motto**: 사용자 입장에서 불편함이 없는 상태가 가장 완벽한 서비스다.
 * **Goal**: 에러와 장애 없는 탄탄한 프론트엔드 환경 구축
 
 ---
+
+## ☕️ Let's Talk!
+거창한 조언보다는, 실무에서 겪는 사소한 고민이나 에러 해결 경험을 함께 나누는 것을 좋아합니다.  
+비슷한 길을 걷고 있는 개발자분들과의 가벼운 커피챗은 언제나 환영입니다
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ansd43@gmail.com)](mailto:ansd43@gmail.com)
+
+> **[ansd43@gmail.com](mailto:ansd43@gmail.com)** 으로 편하게 메일 주세요!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byeong-Gwan_Github_username)](https://github.com/anuraghazra/github-readme-stats)
