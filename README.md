@@ -1,26 +1,28 @@
-안녕하세요. 3년차 Front-End Developer Byeong-Gwan 입니다. 
-현재 T-World 운영 업무를 맡고 있으며, 에러와 장애 대응을 주로 하고 있습니다.
-VOC 접수 시 빠르게 3일 이내 원인과 분석을 통해 사용자의 불편함을 해소하기 위해 노력하고 있습니다.
+# 👋 Hello, I'm Byeong-Gwan!
+### 3rd Year Front-End Developer | Problem Solver | User-Centric Engineer
 
-최근 VOC 접수 중 70% 찾이 하던 에러 처리 하였으며 지속적으로 해당 DataDog 에러 로그 모니터링을 통해 0% 달성 확인했습니다.
-운영은 잘만들어진 옷을 지속적으로 유지하기 위한 과정이라고 생각합니다.
-사용자의 입장에서 불편함이 없이 유지하는 거 만큼 중요한 일은 없다고 생각합니다.
+> **"운영은 잘 만들어진 옷을 지속적으로 유지하기 위한 정성스러운 과정입니다."** > 사용자의 불편함을 제로(0)로 만드는 과정에서 가장 큰 보람을 느낍니다.
 
-### Languages
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript)](https://www.typescriptlang.org/)
-[![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)](https://en.wikipedia.org/wiki/CSS)
-[![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)](https://www.w3schools.com/html/)
-[![jQuery](https://img.shields.io/badge/-jQuery-000?logo=jQuery)](https://www.jQuery.com/jQuery/)
+---
 
+## Experience & Impact
+### **T-World 운영 및 장애 대응**
+* **VOC 원인 분석 및 해결**: 접수된 VOC에 대해 **3일 이내 신속한 원인 파악 및 대응** 프로세스 준수
+* **에러율 제로화 달성**: 
+    * DataDog 모니터링을 통해 전체 VOC의 **70%를 차지하던 핵심 에러** 식별 및 로직 개선
+    * 지속적인 트래킹을 통해 해당 에러 발생률 **0% 달성** 및 안정적인 서비스 유지
+* **모니터링**: DataDog을 활용한 실시간 로그 분석 및 선제적 장애 예방
 
-### Technologies
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap)](https://getbootstrap.com/)
-[![Git](https://img.shields.io/badge/-Git-000?logo=Git)](https://git-scm.com/)
-[![Svelte.js](https://img.shields.io/badge/-Svelte.js-000?logo=Svelte.js)](https://svelte.dev/)
+## Skills & Tools
+* **Frontend**: JavaScript, React, HTML5, CSS3
+* **Monitoring**: DataDog, Sentry
+* **Collaboration**: Git, Jira, Confluence
 
-### Notion
-[![Notion](https://img.shields.io/badge/-Notion-000?logo=Notion)](https://www.notion.so/Photo_album-22-06-06-5a3150d292b746ae811f135e174ddaea)
+---
+
+## Let's Connect
+* **Philosophy**: 잘 만들어진 서비스가 사용자에게 끊김 없이 전달되도록 유지하는 '유지보수의 가치'를 믿습니다.
+* **Focus**: 에러 로그 모니터링, 성능 최적화, 사용자 경험 개선
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byeong-Gwan_Github_username)](https://github.com/anuraghazra/github-readme-stats)
 
