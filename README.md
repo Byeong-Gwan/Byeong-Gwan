@@ -1,28 +1,36 @@
-# 👋 Hello, I'm Byeong-Gwan!
-### 3rd Year Front-End Developer | Problem Solver | User-Centric Engineer
+# 🐧 Byeong-Gwan | Front-End Developer
 
-> **"운영은 잘 만들어진 옷을 지속적으로 유지하기 위한 정성스러운 과정입니다."** > 사용자의 불편함을 제로(0)로 만드는 과정에서 가장 큰 보람을 느낍니다.
+### "운영은 잘 만들어진 옷을 지속적으로 유지하기 위한 과정입니다."
 
----
-
-## Experience & Impact
-### **T-World 운영 및 장애 대응**
-* **VOC 원인 분석 및 해결**: 접수된 VOC에 대해 **3일 이내 신속한 원인 파악 및 대응** 프로세스 준수
-* **에러율 제로화 달성**: 
-    * DataDog 모니터링을 통해 전체 VOC의 **70%를 차지하던 핵심 에러** 식별 및 로직 개선
-    * 지속적인 트래킹을 통해 해당 에러 발생률 **0% 달성** 및 안정적인 서비스 유지
-* **모니터링**: DataDog을 활용한 실시간 로그 분석 및 선제적 장애 예방
-
-## Skills & Tools
-* **Frontend**: JavaScript, React, HTML5, CSS3
-* **Monitoring**: DataDog, Sentry
-* **Collaboration**: Git, Jira, Confluence
+안녕하세요, **3년 차 프론트엔드 개발자 김병관**입니다.  
+저는 사용자가 서비스라는 옷을 입었을 때 어떤 불편함도 느끼지 않도록, 보이지 않는 곳에서 실밥을 정리하고 수선하는 운영 엔지니어링의 가치를 소중히 여깁니다.
 
 ---
 
-## Let's Connect
-* **Philosophy**: 잘 만들어진 서비스가 사용자에게 끊김 없이 전달되도록 유지하는 '유지보수의 가치'를 믿습니다.
-* **Focus**: 에러 로그 모니터링, 성능 최적화, 사용자 경험 개선
+## 🔍 What I Do
+현재 **T-World 운영** 업무를 수행하며, 사용자의 목소리(VOC)를 기술적으로 해석하고 해결합니다.
+
+* **Fast Response**: 3일 이내 원인 분석 및 해결책 제시 (신속한 피드백 루프 구축)
+* **Data-Driven Fix**: DataDog 로그 분석을 통한 근거 있는 에러 척결
+* **Remarkable Result**: **주요 발생 에러 70%를 해결하여 최종 에러율 0%** 기록
+
+
+
+## 💻 Technical Stack
+| Category | Tech |
+| :--- | :--- |
+| **Language** | JavaScript (ES6+), TypeScript |
+| **Library/Framework** | React, Next.js |
+| **DevOps/Ops** | DataDog, Git, Webpack |
+
+---
+
+## 📫 Contact
+* **Motto**: 사용자 입장에서 불편함이 없는 상태가 가장 완벽한 서비스다.
+* **Goal**: 에러와 장애 없는 탄탄한 프론트엔드 환경 구축
+
+---
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byeong-Gwan_Github_username)](https://github.com/anuraghazra/github-readme-stats)
 
