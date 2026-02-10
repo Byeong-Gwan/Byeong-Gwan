@@ -40,7 +40,5 @@
 > **[ansd43@gmail.com](mailto:ansd43@gmail.com)** 으로 편하게 메일 주세요!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byeong-Gwan_Github_username)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byeong-Gwan)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byeong-Gwan&show_icons=true&theme=radical)
 
