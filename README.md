@@ -38,8 +38,3 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ansd43@gmail.com)](mailto:ansd43@gmail.com)
 
 > **[ansd43@gmail.com](mailto:ansd43@gmail.com)** 으로 편하게 메일 주세요!
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byeong-Gwan&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-
